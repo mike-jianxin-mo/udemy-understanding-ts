@@ -19,6 +19,9 @@
     {... ...} 
     ```
 
+- lite-server
+  - Auto load the file updates.
+  
 - Browser only accept js codes.
 
 - +xx convert string to a number.
