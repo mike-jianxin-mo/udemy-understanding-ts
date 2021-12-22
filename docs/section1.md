@@ -1,4 +1,4 @@
-### Section 1
+## Section 1
 
 #### VS Code Plugins
 - ESLint
@@ -13,11 +13,14 @@
 
     - the explanation mark: ! to tell TS that this element/variable will not NULL.
 
-- type in simple function:
+- A classical example: number + number vs string + number.
+  type in simple function:
     ```
     function afun(num1: number, num2: number) 
     {... ...} 
     ```
+
+- TypeScript's type system ONLY help you during development(i.e. before the code gets compiled)
 
 - lite-server
   - Auto load the file updates.
